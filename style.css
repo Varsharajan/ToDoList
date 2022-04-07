@@ -1,0 +1,15 @@
+body{
+ background-image: url("/images/white-imac-apple-keyboard.jpg");
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ opacity: 0.8;
+}
+
+
+.card-title h4{
+    font: size 5px;
+    font-family: cursive;
+    color: blue;
+}
